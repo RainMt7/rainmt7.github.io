@@ -1,0 +1,7 @@
+.page-banner {
+  height: 400px;
+}
+
+.page-banner .page-banner-img > *:first-child {
+  background-position: center top;
+}
